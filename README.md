@@ -45,4 +45,4 @@ Se añadirán al terminar el análisis, con tres gráficos y tres conclusiones d
 
 ## Autor
 
-Zihao Zhou · [LinkedIn](https://www.linkedin.com/in/TU-USUARIO)
+Zihao Zhou · [LinkedIn](www.linkedin.com/in/zihao-zhou-uc3m)
